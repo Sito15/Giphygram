@@ -5,6 +5,14 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  .gifs2 {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
   
   .gif {
     padding: 0 2px;
@@ -12,4 +20,8 @@
   
   .loader {
     color: blue;
+  }
+
+  .tamanio{
+    width: 18rem;
   }
